@@ -1,14 +1,7 @@
-[![MIT License][license-shield]][license-url]
-
 <br />
 <p align="center">
   <h3 align="center">Word Hunter</h3>
-
-  <p align="center">
-    Guess the hidden word before you run out of hearts!
-    <br />
 </p>
-
 
 ## About
 
