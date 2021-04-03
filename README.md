@@ -5,7 +5,7 @@
 
 ## About
 
-[![Link To My Website][product-screenshot]](https://www.jan-schejbal.com/)
+[My Website Link](https://www.jan-schejbal.com/)
 
 Word Hunter is a browser-based word guessing game. This project uses JavaScript and OOP (Object-Oriented Programming) to generate a random, hidden word, which a player tries to guess before running out of hearts.
 
